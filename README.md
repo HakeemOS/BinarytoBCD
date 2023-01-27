@@ -1,6 +1,6 @@
 Simple Binary to BCD 
 
-Takes 8 bit binary number and converts it to BCD. 
+Takes 8 bit binary number as input using switches and converts it to BCD. 
 BCD is used to display the 8 bit number  on 3 of the 4 seven segment displays 
 
 Main modules include:
